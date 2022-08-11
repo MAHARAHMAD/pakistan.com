@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+#ma{font-size:40px; color:#CF3}
+#wel{font-size:45px; color:yellow}
+.dis{font-size:20px; color:blue;}
+#int{font-size:30px; color:#066;}
+#hi{font-size:30px; color:#066;}
+#pkf{font-size:30px; color:#066;}
+#fon{font-size:30px; color:#066;}
+#pa{font-size:30px; color:#066;}
+#huz{ font-style:italic; font-size:20px;}
+#ab{font-size:30px; color:lightblue; font-style:italic; font-weight:500; text-align:center;}
+#dis{color:#99CCFF}
+.dis{color:#99CCFF;}
+#st{ font-size:30px; color:#0C6; font-style:italic; font-weight:800; text-shadow:8px 8px 2px green;}
+#fss{font-size:28px; font-style:italic; text-indent:300px; text-shadow:5px 4px 4px white;}
+#mq{font-size:27px; font-style:bold; text-indent:520px; color:white;}
+#inv{font-size:19px; color:lightblue;}
+#npi{font-size:30px; color:#C9DFEC; text-align:center;}
+#tel{font-size:18px; color:blue;}
+#img{border:2px solid grey;}
+#feed{font-size:32px; color:grey; font-style:italic; text-align:center; text-decoration:underline;}
+#link{text-decoration:none; font-size:25px; color:red;}
+link:link{color:blue;}
+link:visited{color:grey;}
+link:hover{color:brown;}
+link:active{color:black;}
+#d{
+	width:400px;
+	border:1px solid silver;
+	border-width:10px;
+	padding:50px;
+	margin:55px;
+	background-image:url(dh%20icon.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-color:grey;
+	box-shadow:10px -10px 3px silver;
+}
+#form{
+	font-size:60px;
+	text-align:center;
+	color:#36C;
+	text-shadow:10px 10px 4px #09F;
+}
+.name{
+	font-size:25px;
+	color:#CCCC66;
+	padding:15px;
+}
+.in{
+	font-size:24px;
+	color:#396;
+	background-color:#9CF;
+}
+#mar{
+	font-size:40px;
+	color:#06C;
+}
+select{
+	color:#666;
+	font-size:18px;
+	background-color:#CC9;
+	cursor:pointer;
+}
+.butt{
+	font-size:25px;
+	color:#39C;
+	border:1px solid blue;
+}
+.radio{
+	font-size:40px;
+	color:#960;
+}
+body{
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+#body{
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+.tab{
+	font-size:22px;
+	font-style:italic;
+	color:silver;
+	text-decoration:none;
+}
